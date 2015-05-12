@@ -1,7 +1,6 @@
 <?php
 
-//K3513003
-//Adriyanto Prasetyo
+
 
 
 /*
